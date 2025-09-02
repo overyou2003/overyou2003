@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Patiphat Boonanan
-<br>
+# Hi there 👋 
 
+### 😎 I'm "Patiphat Boonanan" , You can call me "Dream"
+### 👨‍🎓 Currently studying Information Technology (IT) at King Mongkut's University of Technology North Bangkok
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>

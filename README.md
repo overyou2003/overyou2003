@@ -27,9 +27,8 @@
 - “Documenting my journey as a developer here on GitHub 📖”
 
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=overyou2003&theme=dark&background=000000)](https://git.io/streak-stats)
-
+### :fire: My top language :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overyou2003)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **overyou2003/overyou2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
